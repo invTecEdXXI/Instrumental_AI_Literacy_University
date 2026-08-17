@@ -1,0 +1,14 @@
+﻿Variable_T0,N_completadores,Media_completadores,DE_completadores,N_excluidos,Media_excluidos,DE_excluidos,t_Welch,p,d_Cohen
+Score_total_autopercepcion,150,2.521,0.729,12,2.566,0.812,-0.187,0.8549,-0.061
+Score_D1,150,2.58,0.886,12,2.709,1.0,-0.433,0.6723,-0.144
+Score_D2,150,2.013,0.825,12,2.057,0.984,-0.151,0.8828,-0.053
+Score_D3,150,2.928,0.886,12,2.863,0.895,0.242,0.8129,0.073
+Score_D4,150,2.426,0.868,12,2.529,0.919,-0.376,0.7131,-0.118
+Score_conocimiento,150,8.7,4.218,12,7.917,4.144,0.629,0.5402,0.186
+Score_conocimiento_D1,150,2.207,1.538,12,1.833,1.403,0.88,0.3945,0.244
+Score_conocimiento_D2,150,1.247,1.231,12,1.417,1.084,-0.517,0.6133,-0.139
+Score_conocimiento_D3,150,3.427,1.873,12,3.0,1.651,0.852,0.4091,0.23
+Score_conocimiento_D4,150,1.82,1.438,12,1.667,1.371,0.372,0.7162,0.107
+Anio_nacimiento,150,2001.92,2.215,12,2001.917,2.353,0.005,0.9963,0.001
+Ciclo_academico,150,5.28,2.168,12,5.25,2.417,0.042,0.9674,0.014
+Atricion diferencial por grupo (Fisher exacto),75,,,7,,,0.714,0.7658,

@@ -1,0 +1,8 @@
+﻿Etapa_CONSORT,N,N_experimental,N_control
+Inscritos inicialmente (elegibles),174,,
+Rehusaron el consentimiento informado,-12,,
+Consintieron y completaron T0,162,82,80
+Abandonaron antes de T1,-7,-5,-2
+Incumplieron asistencia >= 80%,-5,-2,-3
+"Analizados (per-protocol, T0/T1/T2)",150,75,75
+Tasa de atricion,13.8%,,

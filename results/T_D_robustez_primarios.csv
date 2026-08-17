@@ -1,0 +1,13 @@
+﻿Outcome,Metodo,Dif_ajustada,d_aprox,SE,gl,t,IC95_inf,IC95_sup,p,Nota
+Autopercepcion total (primario),M1 OLS individual (SE clasico),0.39,0.505,0.02,147.0,19.763,0.351,0.429,<.0001,analisis original; ignora clustering
+Autopercepcion total (primario),M2 ANCOVA CR2 + Satterthwaite,0.39,0.505,0.016,5.87,24.811,0.351,0.429,<.0001,inferencia primaria propuesta
+Autopercepcion total (primario),"M3 LMM (1|Seccion) REML, gl=m-2",0.39,0.505,0.02,6.0,19.756,0.342,0.438,<.0001,ICC condicional=0.0000; gl conservador
+Autopercepcion total (primario),M4 Agregacion por seccion (n=8),0.391,0.505,0.018,5.0,22.19,0.345,0.436,<.0001,Hedges g (medias de seccion)=2.26
+Autopercepcion total (primario),"M5 Wild cluster bootstrap (Webb, B=9999)",0.39,0.505,,,26.444,,,0.0002,"restringido, H0 impuesta; t con CR1"
+Autopercepcion total (primario),M6 Permutacion exacta por seccion,0.39,0.505,,,,,,0.0286,70 asignaciones; p minimo=2/70=.0286
+Conocimiento objetivo total (primario),M1 OLS individual (SE clasico),4.987,0.948,0.519,147.0,9.605,3.961,6.013,<.0001,analisis original; ignora clustering
+Conocimiento objetivo total (primario),M2 ANCOVA CR2 + Satterthwaite,4.987,0.948,0.381,5.87,13.094,4.05,5.924,<.0001,inferencia primaria propuesta
+Conocimiento objetivo total (primario),"M3 LMM (1|Seccion) REML, gl=m-2",4.987,0.948,0.531,6.0,9.388,3.687,6.287,<.0001,ICC condicional=0.0000; gl conservador
+Conocimiento objetivo total (primario),M4 Agregacion por seccion (n=8),5.008,0.952,0.16,5.0,31.308,4.597,5.419,<.0001,Hedges g (medias de seccion)=3.44
+Conocimiento objetivo total (primario),"M5 Wild cluster bootstrap (Webb, B=9999)",4.987,0.948,,,14.481,,,0.001,"restringido, H0 impuesta; t con CR1"
+Conocimiento objetivo total (primario),M6 Permutacion exacta por seccion,4.987,0.948,,,,,,0.0286,70 asignaciones; p minimo=2/70=.0286

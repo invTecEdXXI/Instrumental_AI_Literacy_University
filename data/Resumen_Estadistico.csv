@@ -1,0 +1,61 @@
+﻿Tiempo,Grupo,Dimension,Escala,N,Media,DE,Min,Max,Mediana
+T0,Experimental,D1,Autopercepción,75,2.544,0.897,1.0,4.33,2.5
+T0,Experimental,D1,Conocimiento objetivo,75,2.227,1.512,0.0,6.0,2.0
+T0,Experimental,D2,Autopercepción,75,2.038,0.786,1.0,4.67,2.0
+T0,Experimental,D2,Conocimiento objetivo,75,1.267,1.212,0.0,6.0,1.0
+T0,Experimental,D3,Autopercepción,75,2.915,0.888,1.0,4.62,2.88
+T0,Experimental,D3,Conocimiento objetivo,75,3.493,1.727,0.0,7.0,3.0
+T0,Experimental,D4,Autopercepción,75,2.427,0.835,1.0,4.67,2.5
+T0,Experimental,D4,Conocimiento objetivo,75,1.733,1.359,0.0,5.0,2.0
+T0,Experimental,TOTAL,Autopercepción,75,2.514,0.704,1.0,4.12,2.62
+T0,Experimental,TOTAL,Conocimiento objetivo,75,8.72,4.099,1.0,19.0,9.0
+T0,Control,D1,Autopercepción,75,2.616,0.88,1.0,4.17,2.67
+T0,Control,D1,Conocimiento objetivo,75,2.187,1.574,0.0,6.0,2.0
+T0,Control,D2,Autopercepción,75,1.987,0.867,1.0,4.5,2.0
+T0,Control,D2,Conocimiento objetivo,75,1.227,1.258,0.0,5.0,1.0
+T0,Control,D3,Autopercepción,75,2.942,0.889,1.12,4.88,3.0
+T0,Control,D3,Conocimiento objetivo,75,3.36,2.018,0.0,8.0,3.0
+T0,Control,D4,Autopercepción,75,2.424,0.906,1.0,4.17,2.33
+T0,Control,D4,Conocimiento objetivo,75,1.907,1.517,0.0,5.0,2.0
+T0,Control,TOTAL,Autopercepción,75,2.527,0.757,1.08,4.12,2.54
+T0,Control,TOTAL,Conocimiento objetivo,75,8.68,4.362,2.0,18.0,8.0
+T1,Experimental,D1,Autopercepción,75,3.136,1.041,1.17,5.0,3.17
+T1,Experimental,D1,Conocimiento objetivo,75,3.587,1.967,0.0,6.0,4.0
+T1,Experimental,D2,Autopercepción,75,2.44,0.892,1.0,5.0,2.33
+T1,Experimental,D2,Conocimiento objetivo,75,2.573,1.637,0.0,6.0,2.0
+T1,Experimental,D3,Autopercepción,75,3.477,0.962,1.25,4.88,3.62
+T1,Experimental,D3,Conocimiento objetivo,75,5.227,2.172,0.0,8.0,6.0
+T1,Experimental,D4,Autopercepción,75,2.976,0.97,1.17,5.0,3.0
+T1,Experimental,D4,Conocimiento objetivo,75,3.147,1.843,0.0,6.0,3.0
+T1,Experimental,TOTAL,Autopercepción,75,3.043,0.793,1.19,4.58,3.15
+T1,Experimental,TOTAL,Conocimiento objetivo,75,14.533,5.639,2.0,25.0,15.0
+T1,Control,D1,Autopercepción,75,2.773,0.87,1.0,4.5,2.83
+T1,Control,D1,Conocimiento objetivo,75,2.48,1.605,0.0,6.0,2.0
+T1,Control,D2,Autopercepción,75,2.113,0.906,1.0,4.67,2.0
+T1,Control,D2,Conocimiento objetivo,75,1.453,1.445,0.0,5.0,1.0
+T1,Control,D3,Autopercepción,75,3.085,0.918,1.25,4.88,3.12
+T1,Control,D3,Conocimiento objetivo,75,3.653,1.899,0.0,8.0,3.0
+T1,Control,D4,Autopercepción,75,2.553,0.929,1.0,4.5,2.5
+T1,Control,D4,Conocimiento objetivo,75,1.92,1.558,0.0,6.0,2.0
+T1,Control,TOTAL,Autopercepción,75,2.666,0.751,1.19,4.23,2.58
+T1,Control,TOTAL,Conocimiento objetivo,75,9.507,4.847,2.0,20.0,8.0
+T2,Experimental,D1,Autopercepción,75,3.078,1.004,1.17,4.83,3.17
+T2,Experimental,D1,Conocimiento objetivo,75,3.4,1.724,0.0,6.0,4.0
+T2,Experimental,D2,Autopercepción,75,2.338,0.854,1.0,4.5,2.17
+T2,Experimental,D2,Conocimiento objetivo,75,2.053,1.61,0.0,6.0,2.0
+T2,Experimental,D3,Autopercepción,75,3.387,0.934,1.12,4.88,3.5
+T2,Experimental,D3,Conocimiento objetivo,75,4.88,1.823,0.0,8.0,5.0
+T2,Experimental,D4,Autopercepción,75,2.927,0.937,1.33,5.0,3.0
+T2,Experimental,D4,Conocimiento objetivo,75,2.907,1.733,0.0,6.0,3.0
+T2,Experimental,TOTAL,Autopercepción,75,2.967,0.766,1.27,4.46,3.08
+T2,Experimental,TOTAL,Conocimiento objetivo,75,13.24,5.122,2.0,25.0,13.0
+T2,Control,D1,Autopercepción,75,2.769,0.892,1.0,4.5,2.83
+T2,Control,D1,Conocimiento objetivo,75,2.507,1.446,0.0,6.0,2.0
+T2,Control,D2,Autopercepción,75,2.158,0.89,1.0,4.83,2.0
+T2,Control,D2,Conocimiento objetivo,75,1.493,1.537,0.0,6.0,1.0
+T2,Control,D3,Autopercepción,75,3.07,0.892,1.38,4.88,3.12
+T2,Control,D3,Conocimiento objetivo,75,3.667,2.022,0.0,8.0,4.0
+T2,Control,D4,Autopercepción,75,2.576,0.909,1.0,4.5,2.5
+T2,Control,D4,Conocimiento objetivo,75,2.173,1.545,0.0,6.0,2.0
+T2,Control,TOTAL,Autopercepción,75,2.676,0.732,1.23,4.27,2.62
+T2,Control,TOTAL,Conocimiento objetivo,75,9.84,4.728,1.0,22.0,9.0

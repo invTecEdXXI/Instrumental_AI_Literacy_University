@@ -1,0 +1,7 @@
+"Outcome","Efecto","F","df1","df2","p"
+"Score_total_autopercepcion","Grupo",3.57,1,148,0.06087
+"Score_total_autopercepcion","Tiempo",525.09,2,296,4.403e-98
+"Score_total_autopercepcion","Grupo:Tiempo",204.47,2,296,1.678e-56
+"Score_conocimiento","Grupo",14.23,1,148,0.0002335
+"Score_conocimiento","Tiempo",98.28,2,296,1.85e-33
+"Score_conocimiento","Grupo:Tiempo",48.11,2,296,8.113e-19

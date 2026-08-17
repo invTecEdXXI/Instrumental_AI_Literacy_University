@@ -1,0 +1,11 @@
+﻿Outcome,Ola,Familia,Dif_ajustada,SE_CR2,gl_Satt,t,IC95_inf,IC95_sup,p,p_Holm
+Score_D1,T1,A: autopercepcion,0.436,0.039,5.87,11.165,0.34,0.532,3.566223494959483e-05,6.705586022658932e-05
+Score_D2,T1,A: autopercepcion,0.272,0.019,5.86,14.225,0.225,0.32,9.100273625942543e-06,3.640109450377017e-05
+Score_D3,T1,A: autopercepcion,0.418,0.034,5.87,12.138,0.333,0.503,2.2351953408863105e-05,6.705586022658932e-05
+Score_D4,T1,A: autopercepcion,0.419,0.037,5.87,11.433,0.329,0.509,3.138842154603071e-05,6.705586022658932e-05
+Score_conocimiento_D1,T1,B: conocimiento,1.082,0.32,5.86,3.38,0.294,1.87,0.0154,0.015959542980552115
+Score_conocimiento_D2,T1,B: conocimiento,1.097,0.278,5.86,3.94,0.412,1.782,0.008,0.015959542980552115
+Score_conocimiento_D3,T1,B: conocimiento,1.488,0.249,5.86,5.966,0.874,2.101,0.0011,0.0032423798103594246
+Score_conocimiento_D4,T1,B: conocimiento,1.35,0.164,5.86,8.221,0.946,1.754,0.0002,0.0007868220755476996
+Score_total_autopercepcion,T2,Primarios en T2 (mantenimiento),0.303,0.013,5.87,23.64,0.272,0.335,4.79935535238712e-07,
+Score_conocimiento,T2,Primarios en T2 (mantenimiento),3.364,0.501,5.87,6.708,2.13,4.598,0.0006,

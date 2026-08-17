@@ -1,0 +1,31 @@
+﻿Outcome,Efecto,F,df1,df2,p_GG,eps_aplicado,eta2p,eta2p_IC90_inf,eta2p_IC90_sup
+Autopercepcion total,Grupo,3.19,1,148,0.076,1.0,0.021,0.0,0.073
+Autopercepcion total,Tiempo,777.0,2,296,<.0001,0.846,0.84,0.815,0.858
+Autopercepcion total,Grupo x Tiempo,239.91,2,296,<.0001,0.846,0.618,0.564,0.66
+Autopercepcion D1 (conceptual),Grupo,1.76,1,148,0.1867,1.0,0.012,0.0,0.056
+Autopercepcion D1 (conceptual),Tiempo,247.48,2,296,<.0001,0.855,0.626,0.572,0.666
+Autopercepcion D1 (conceptual),Grupo x Tiempo,80.01,2,296,<.0001,0.855,0.351,0.279,0.411
+Autopercepcion D2 (tecnica),Grupo,1.76,1,148,0.1861,1.0,0.012,0.0,0.056
+Autopercepcion D2 (tecnica),Tiempo,137.3,2,296,<.0001,0.872,0.481,0.414,0.534
+Autopercepcion D2 (tecnica),Grupo x Tiempo,30.98,2,296,<.0001,0.872,0.173,0.109,0.233
+Autopercepcion D3 (etica),Grupo,2.36,1,148,0.1263,1.0,0.016,0.0,0.063
+Autopercepcion D3 (etica),Tiempo,248.76,2,296,<.0001,0.823,0.627,0.573,0.668
+Autopercepcion D3 (etica),Grupo x Tiempo,84.88,2,296,<.0001,0.823,0.364,0.292,0.424
+Autopercepcion D4 (colaborativa),Grupo,3.04,1,148,0.0831,1.0,0.02,0.0,0.071
+Autopercepcion D4 (colaborativa),Tiempo,201.01,2,296,<.0001,0.797,0.576,0.517,0.621
+Autopercepcion D4 (colaborativa),Grupo x Tiempo,68.94,2,296,<.0001,0.797,0.318,0.245,0.379
+Conocimiento total,Grupo,14.77,1,148,0.0002,1.0,0.091,0.03,0.169
+Conocimiento total,Tiempo,105.34,2,296,<.0001,0.964,0.416,0.345,0.473
+Conocimiento total,Grupo x Tiempo,52.9,2,296,<.0001,0.964,0.263,0.192,0.326
+Conocimiento D1,Grupo,8.85,1,148,0.0034,1.0,0.056,0.011,0.125
+Conocimiento D1,Tiempo,27.6,2,296,<.0001,0.959,0.157,0.096,0.216
+Conocimiento D1,Grupo x Tiempo,10.57,2,296,<.0001,0.959,0.067,0.025,0.113
+Conocimiento D2,Grupo,8.33,1,148,0.0045,1.0,0.053,0.01,0.121
+Conocimiento D2,Tiempo,23.71,2,296,<.0001,0.976,0.138,0.08,0.196
+Conocimiento D2,Grupo x Tiempo,11.24,2,296,<.0001,0.976,0.071,0.028,0.118
+Conocimiento D3,Grupo,12.5,1,148,0.0005,1.0,0.078,0.022,0.153
+Conocimiento D3,Tiempo,30.87,2,296,<.0001,0.989,0.173,0.109,0.233
+Conocimiento D3,Grupo x Tiempo,14.68,2,296,<.0001,0.989,0.09,0.042,0.141
+Conocimiento D4,Grupo,6.96,1,148,0.0092,1.0,0.045,0.006,0.11
+Conocimiento D4,Tiempo,26.32,2,296,<.0001,0.998,0.151,0.09,0.21
+Conocimiento D4,Grupo x Tiempo,19.38,2,296,<.0001,0.998,0.116,0.061,0.171

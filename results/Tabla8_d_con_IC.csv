@@ -1,0 +1,31 @@
+﻿Outcome,Ola,d,IC95_inf,IC95_sup
+Autopercepcion total,T0,-0.017,-0.337,0.303
+Autopercepcion total,T1,0.488,0.162,0.812
+Autopercepcion total,T2,0.388,0.064,0.71
+Autopercepcion D1 (conceptual),T0,-0.08,-0.4,0.241
+Autopercepcion D1 (conceptual),T1,0.377,0.054,0.7
+Autopercepcion D1 (conceptual),T2,0.325,0.003,0.647
+Autopercepcion D2 (tecnica),T0,0.062,-0.258,0.382
+Autopercepcion D2 (tecnica),T1,0.363,0.04,0.685
+Autopercepcion D2 (tecnica),T2,0.207,-0.115,0.527
+Autopercepcion D3 (etica),T0,-0.029,-0.349,0.291
+Autopercepcion D3 (etica),T1,0.416,0.092,0.739
+Autopercepcion D3 (etica),T2,0.347,0.024,0.669
+Autopercepcion D4 (colaborativa),T0,0.003,-0.317,0.323
+Autopercepcion D4 (colaborativa),T1,0.444,0.119,0.767
+Autopercepcion D4 (colaborativa),T2,0.379,0.055,0.701
+Conocimiento total,T0,0.009,-0.311,0.329
+Conocimiento total,T1,0.956,0.617,1.293
+Conocimiento total,T2,0.69,0.359,1.018
+Conocimiento D1,T0,0.026,-0.294,0.346
+Conocimiento D1,T1,0.616,0.288,0.943
+Conocimiento D1,T2,0.561,0.234,0.887
+Conocimiento D2,T0,0.032,-0.288,0.352
+Conocimiento D2,T1,0.725,0.394,1.055
+Conocimiento D2,T2,0.356,0.033,0.678
+Conocimiento D3,T0,0.071,-0.249,0.391
+Conocimiento D3,T1,0.771,0.438,1.102
+Conocimiento D3,T2,0.63,0.301,0.957
+Conocimiento D4,T0,-0.12,-0.44,0.2
+Conocimiento D4,T1,0.719,0.387,1.048
+Conocimiento D4,T2,0.447,0.122,0.77

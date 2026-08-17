@@ -1,0 +1,11 @@
+﻿Outcome,Moderador,n,F_interaccion,df1,df2,p
+Score_total_autopercepcion,Facultad,150,1.024,5,137,0.4059
+Score_total_autopercepcion,Genero (3 categorias),150,0.771,2,143,0.4646
+Score_total_autopercepcion,"Genero (binario, sens.)",143,1.173,1,138,0.2807
+Score_total_autopercepcion,Experiencia previa (4 cat.),150,0.71,3,141,0.5477
+Score_total_autopercepcion,"Experiencia (colapsada, sens.)",150,1.075,2,143,0.3442
+Score_conocimiento,Facultad,150,1.209,5,137,0.3081
+Score_conocimiento,Genero (3 categorias),150,0.119,2,143,0.8877
+Score_conocimiento,"Genero (binario, sens.)",143,0.12,1,138,0.7298
+Score_conocimiento,Experiencia previa (4 cat.),150,0.628,3,141,0.5981
+Score_conocimiento,"Experiencia (colapsada, sens.)",150,0.228,2,143,0.7961

@@ -1,0 +1,27 @@
+﻿Moderador,Categoria,Grupo,n
+Facultad,Arte y Humanidades,Control,9
+Facultad,Arte y Humanidades,Experimental,6
+Facultad,Ciencias,Control,13
+Facultad,Ciencias,Experimental,17
+Facultad,Ciencias Sociales,Control,11
+Facultad,Ciencias Sociales,Experimental,9
+Facultad,Ciencias de la Salud,Control,8
+Facultad,Ciencias de la Salud,Experimental,10
+Facultad,Educación,Control,14
+Facultad,Educación,Experimental,16
+Facultad,Ingeniería,Control,20
+Facultad,Ingeniería,Experimental,17
+Genero,Femenino,Control,35
+Genero,Femenino,Experimental,38
+Genero,Masculino,Control,39
+Genero,Masculino,Experimental,31
+Genero,No binario,Control,1
+Genero,No binario,Experimental,6
+Experiencia_previa_IA,Avanzada,Control,7
+Experiencia_previa_IA,Avanzada,Experimental,6
+Experiencia_previa_IA,Básica,Control,32
+Experiencia_previa_IA,Básica,Experimental,48
+Experiencia_previa_IA,Intermedia,Control,20
+Experiencia_previa_IA,Intermedia,Experimental,7
+Experiencia_previa_IA,Ninguna,Control,16
+Experiencia_previa_IA,Ninguna,Experimental,14
